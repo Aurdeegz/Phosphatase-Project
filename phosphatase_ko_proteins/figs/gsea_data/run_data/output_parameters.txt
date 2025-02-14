@@ -1,0 +1,13 @@
+## 2024-11-14 17:02:19.124604
+input gct:	/mnt/c/Users/redas/Desktop/jupyter_directory/arts_lab/phosphatase_ko_proteins/figs/gsea_data/run_data/data.gct
+gene.set.database:	/mnt/c/Users/redas/Desktop/jupyter_directory/arts_lab/phosphatase_ko_proteins/databases/gene_sets.gmt
+sample.norm.type:	rank
+weight:	0
+statistic:	area.under.RES
+output.score.type	NES
+nperm:	10000
+global.fdr:	TRUE
+min.overlap:	3
+correl.type:	z.score
+export.signat.gct:	FALSE
+run.parallel:	TRUE
