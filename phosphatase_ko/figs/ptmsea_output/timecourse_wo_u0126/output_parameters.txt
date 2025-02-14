@@ -1,0 +1,13 @@
+## 2024-06-26 19:01:00.776849
+input gct:	/mnt/c/Users/redas/Desktop/jupyter_directory/arts_lab/phosphatase_ko/figs/ptmsea_output/timecourse_wo_u0126/qvalue.gct
+gene.set.database:	/mnt/c/Users/redas/Desktop/jupyter_directory/arts_lab/phosphatase_ko/database/ptm.sig.db.all.flanking.human.v2.0.0.gmt
+sample.norm.type:	none
+weight:	1
+statistic:	area.under.RES
+output.score.type	NES
+nperm:	10000
+global.fdr:	TRUE
+min.overlap:	3
+correl.type:	z.score
+export.signat.gct:	FALSE
+run.parallel:	TRUE
